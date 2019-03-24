@@ -1,2 +1,0 @@
-# movieapp
-react-app
