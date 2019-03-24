@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "doogeuny.github.io/movie_app/precache-manifest.8d3207cfc4bba01933db9cae2d011bb0.js"
+  "doogeuny.github.io/movie_app/precache-manifest.f13f5a0b615a9d1dc0874b0a56f6cb80.js"
 );
 
 workbox.clientsClaim();
